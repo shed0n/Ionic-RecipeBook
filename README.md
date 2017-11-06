@@ -1,5 +1,5 @@
 ###  Recipe Book using the Ionic framework
-Projeto mobile do RecipeBook feito em Angular 4 utilizando o [Ionic](http://ionicframework.com/docs/) framework.
+Projeto mobile do[RecipeBook](https://github.com/shed0n/AngularProject)feito em Angular 4 utilizando o[Ionic](http://ionicframework.com/docs/)framework.
 
 ### How to use this template with the Ionic CLI:
 
