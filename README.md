@@ -1,4 +1,4 @@
-#  Recipe Book using the Ionic framework
+###  Recipe Book using the Ionic framework
 
 ## Purpose
 This project was created with the intention of get a deeper understanding of Ionic 3.
