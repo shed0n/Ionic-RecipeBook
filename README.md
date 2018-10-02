@@ -12,8 +12,8 @@ A mobile version of the project [RecipeBook](https://github.com/shed0n/RecipeBoo
 To run it, cd into `RecipeBook` and run:
 
 ```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
+$ ionic cordova platform add android
+$ ionic cordova run android
 ```
 
-Substitute ios for android if not on a Mac.
+Substitute android for ios if you are on a Mac or building for iOS.
