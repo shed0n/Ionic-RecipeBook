@@ -16,4 +16,4 @@ $ ionic cordova platform add android
 $ ionic cordova run android
 ```
 
-Substitute android for ios if you are on a Mac or building for iOS.
+Change android for ios if you are on a Mac or building for iOS.
